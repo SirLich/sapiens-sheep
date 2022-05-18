@@ -14,6 +14,7 @@ function mod:onload(mob)
 	mob.load = function (self_, gameObject)
 		logger:log("Mob.lua Loaded")
 		-- -- Load out custom mobs first, before super (so that valid types is correct)
+		-- FIXME: This is causing a crash :/
 		-- mobSheep:load(mob, gameObject)
 
 		superLoad(mob, gameObject)
