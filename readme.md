@@ -2,6 +2,8 @@
 
 This is a test mod, which simply adds a sheep to the game. The main purpose is to test the viability of adding entities into Sapiens, and also finding any places where lack of exposure prevents me from doing it as a pure mode (without source code edits).
 
+[<img src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" width="300"/>](https://discord.gg/WnN8hj2Fyg)
+
 ## Issues
 
 This section will simply list the places where I became blocked, and resorted to source code edits.
